@@ -11,7 +11,7 @@
 ### Glad to see you here!  
 I'm JP 🐻✨ , a third-year student studying Computer Science at Bangkok University 
 <br>
-I'm starting to learn about " Data Analytic " 
+and starting to learn about " Data Analytic " 
 and use the tools you have learned to take advantage of this career.
 
   
