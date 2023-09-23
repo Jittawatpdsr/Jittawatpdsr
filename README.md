@@ -10,8 +10,8 @@
 <br>
   
 ### <h2>Glad to see you here! °₊·ˈ∗ </h2>
-Hi! I'm JP 🐻✨ , a third-year student studying Computer Science at Bangkok University 
-starting to learn about " Data Analytic " and improve my soft skills , such as logic and critical thinking and more.
+Hi! I'm JP 🐻✨ , a third-year student studying Computer Science. <br>
+starting to learn about " Data Analytic " and improve my soft skills such as logic , critical thinking and more.
 
 <br>
 
