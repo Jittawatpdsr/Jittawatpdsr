@@ -10,8 +10,8 @@
 <br>
   
 ### <h2>Glad to see you here! °₊·ˈ∗ </h2>
-Hi! I'm JP 🐻 , a third-year student studying Computer Science. <br>
-starting to learn about " Data Analytic " and improve my soft skills such as logic , critical thinking and more.
+Hi! I'm **JP** , a 3rd-year student studying Computer Science. <br>
+starting to learn about **"Data Analytic"** and improve my soft skills such as logic , critical thinking and more.
 
 <br>
 
@@ -51,15 +51,3 @@ starting to learn about " Data Analytic " and improve my soft skills such as log
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 </div>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
