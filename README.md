@@ -1,4 +1,4 @@
-## <h1>Hello 👋🏻 , I'm Jittawat Praditseree.</h1>
+## <h1>HELLO 👋🏻 , I'M JITTAWAT PRADITSEREE.</h1>
   
 
 <a href="https://github.com/Jittawatpdsr" target="_blank">
@@ -9,14 +9,13 @@
 </a>  
 <br>
   
-### <h2>Glad to see you here! </h2>
+### <h2>Glad to see you here! °₊·ˈ∗ </h2>
 Hi! I'm JP 🐻✨ , a third-year student studying Computer Science at Bangkok University 
-<br>
 starting to learn about " Data Analytic " and improve my soft skills , such as logic and critical thinking and more.
 
-<br/>  
+<br>
 
-## Passion 
+## Passion ⋆·˚ 
 <td valign="top" width="50%">
 
 - 💻 I’m currently studying at  [Bangkok University](https://www.bu.ac.th/th/)  
