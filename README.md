@@ -1,4 +1,4 @@
-## Hello 👋🏻 , I'm Jittawat Praditseree 
+## <h1>Hello 👋🏻 , I'm Jittawat Praditseree.</h1>
   
 
 <a href="https://github.com/Jittawatpdsr" target="_blank">
@@ -7,17 +7,14 @@
 <a href="https://linkedin.com/in/jittawatp" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<br>
   
-### Glad to see you here!  
+### <h2>Glad to see you here! </h2>
 I'm JP 🐻✨ , a third-year student studying Computer Science at Bangkok University 
 <br>
 starting to learn about " Data Analytic " and improve my soft skills , such as logic and critical thinking and more.
 
-
-  
-
 <br/>  
-
 
 ## Passion 
 <td valign="top" width="50%">
