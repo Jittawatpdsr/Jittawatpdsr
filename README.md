@@ -26,7 +26,7 @@ starting to learn about **"Data Analytic"** and improve my soft skills such as l
 - ✨ I'm currently learning **Computer Science , Data Analytic , UX/UI Design , Web Developing**  
   
 
-- 👀 I'm interested in **Data Analytic , Database , UX/UI Design , Business Management**  
+- 👀 I'm interested in **Data Analytic , Database , UX/UI Design , Engineering**  
   
 
 - ⌨️ I regularly write articles on [LinkedIn](https://www.linkedin.com/in/jittawatp/)  
