@@ -18,7 +18,7 @@ starting to learn about **"Data Analytic"** and improve my soft skills such as l
 ## Passion ⋆·˚ 
 <td valign="top" width="50%">
 
-- ⚙️ 2019 at Production Engineering of [King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/)
+- ⚙️ 2020 at Production Engineering of [King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/)
 
 - 💻 I’m currently studying at  [Bangkok University](https://www.bu.ac.th/th/)  
   
