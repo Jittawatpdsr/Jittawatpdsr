@@ -16,7 +16,10 @@ starting to learn about **"Data Analytic"** and improve my soft skills such as l
 ⚙️ 2020 at Production Engineering of [King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/)
 <br>
 <br>
-💎 2021 at Information Techonology and Innovation of [Bangkok University](https://www.bu.ac.th/th/)  
+💎 2021 at Information Techonology and Innovation of [Bangkok University](https://www.bu.ac.th/th/)
+<br>
+<br>
+Next coming soon....?
 
 <br>
 
