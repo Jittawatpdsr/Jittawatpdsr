@@ -32,7 +32,7 @@ Next coming soon....?
 - 👀 I'm interested in **Data Analyst , Database , UX/UI Design , Engineering**
 
 
-- 📊 My Tableau practice here [Tableau Public](https://public.tableau.com/app/profile/jittawat.praditseree)
+- 📊 My Tableau Public here [Tableau Public](https://public.tableau.com/app/profile/jittawat.praditseree)
   
 
 - ⌨️ I regularly write articles on [LinkedIn](https://www.linkedin.com/in/jittawatp/)  
