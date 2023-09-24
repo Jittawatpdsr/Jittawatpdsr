@@ -11,7 +11,7 @@
   
 ### <h2>Glad to see you here! °₊·ˈ∗ </h2>
 Hi! I'm **JP** , a 3rd-year student studying Computer Science. <br>
-starting to learn about **"Data Analytic"** and improve my soft skills such as logic , critical thinking and more.
+starting to learn about **"Data Analyst"** and improve my soft skills such as logic , critical thinking and more.
 
 ⚙️ 2020 at Production Engineering of [King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/)
 <br>
@@ -29,7 +29,7 @@ Next coming soon....?
 - ✨ I'm currently learning **Computer Science , Data Analytic , UX/UI Design , Web Developing**  
   
 
-- 👀 I'm interested in **Data Analytic , Database , UX/UI Design , Engineering**
+- 👀 I'm interested in **Data Analyst , Database , UX/UI Design , Engineering**
 
 
 - 📊 My Tableau practice here [Tableau Public](https://public.tableau.com/app/profile/jittawat.praditseree)
