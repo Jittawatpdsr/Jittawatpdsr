@@ -25,10 +25,10 @@ Next coming soon....?
 ## Passion ⋆·˚ 
 <td valign="top" width="50%">
 
-- ✨ I'm currently learning **Computer Science , Data Analytic , UX/UI Design , Web Developing**  
+- ✨ I'm currently learning **Computer Science , Data Analysis , UX/UI Design , Web Developing**  
   
 
-- 👀 I'm interested in **Data Analyst , Database , UX/UI Design , Engineering**
+- 👀 I'm interested in **Data Analysis , Database , UX/UI Design , Engineering**
 
 
 - 📊 My Tableau Public here <b>[Tableau Public](https://public.tableau.com/app/profile/jittawat.praditseree)</b>
