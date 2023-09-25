@@ -20,8 +20,6 @@ Hi! I'm **JP** , a 3rd-year student studying Computer Science and starting to le
 <br>
 Next coming soon....?
 
-<br>
-
 ## Passion and contact ⋆·˚ 
 <td valign="top" width="50%">
 
@@ -38,11 +36,6 @@ Next coming soon....?
   
 
 - 🚀 Contact me here  <b>[Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDCzLtqQJzXzpwhBkFCknlftzcMTHvCnVHDqSgBBFSWxktnnFLhTsvnxGcMTwHZjmnbQrS)</b>
-
-<br>
-
-</td><td valign="top" width="50%">
-
 
 ## Languages and tools  
 <div align="left">
