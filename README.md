@@ -13,10 +13,10 @@
 Hi! I'm **JP** , a 3rd-year student studying Computer Science. <br>
 starting to learn about **"Data Analyst"** and improve my soft skills such as logic , presentation , critical thinking and more.
 
-⚙️ 2020 at Production Engineering of [King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/)
+⚙️ 2020 at Production Engineering of <b>[King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/)</b>
 <br>
 <br>
-💎 2021 at Information Techonology and Innovation of [Bangkok University](https://www.bu.ac.th/th/)
+💎 2021 at Information Techonology and Innovation of <b>[Bangkok University](https://www.bu.ac.th/th/)</b>
 <br>
 <br>
 Next coming soon....?
@@ -32,13 +32,13 @@ Next coming soon....?
 - 👀 I'm interested in **Data Analyst , Database , UX/UI Design , Engineering**
 
 
-- 📊 My Tableau Public here [Tableau Public](https://public.tableau.com/app/profile/jittawat.praditseree)
+- 📊 My Tableau Public here <b>[Tableau Public](https://public.tableau.com/app/profile/jittawat.praditseree)</b>
   
 
-- ⌨️ I regularly write articles on [LinkedIn](https://www.linkedin.com/in/jittawatp/)  
+- ⌨️ I regularly write articles on <b>[LinkedIn](https://www.linkedin.com/in/jittawatp/)</b>  
   
 
-- 🚀 Contact me here  [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDCzLtqQJzXzpwhBkFCknlftzcMTHvCnVHDqSgBBFSWxktnnFLhTsvnxGcMTwHZjmnbQrS)  
+- 🚀 Contact me here  <b>[Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDCzLtqQJzXzpwhBkFCknlftzcMTHvCnVHDqSgBBFSWxktnnFLhTsvnxGcMTwHZjmnbQrS)</b>
 
 <br>
 
