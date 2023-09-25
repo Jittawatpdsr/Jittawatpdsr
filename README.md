@@ -11,7 +11,7 @@
   
 ### <h2>Glad to see you here! °₊·ˈ∗ </h2>
 Hi! I'm **JP** , a 3rd-year student studying Computer Science. <br>
-starting to learn about **"Data Analyst"** and improve my soft skills such as logic , critical thinking and more.
+starting to learn about **"Data Analyst"** and improve my soft skills such as logic , presentation , critical thinking and more.
 
 ⚙️ 2020 at Production Engineering of [King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/)
 <br>
