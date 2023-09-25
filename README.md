@@ -22,7 +22,7 @@ Next coming soon....?
 
 <br>
 
-## Passion ⋆·˚ 
+## Passion and contact ⋆·˚ 
 <td valign="top" width="50%">
 
 - ✨ I'm currently learning **Computer Science , Data Analysis , UX/UI Design , Web Developing**  
@@ -44,7 +44,7 @@ Next coming soon....?
 </td><td valign="top" width="50%">
 
 
-## Languages and Tools  
+## Languages and tools  
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
