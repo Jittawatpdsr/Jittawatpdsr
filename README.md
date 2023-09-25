@@ -1,4 +1,4 @@
-## <h1>HELLO 👋🏻 , I'M JITTAWAT PRADITSEREE.</h1>
+## <h1>HELLO 👋🏻 , I'M JITTAWAT PRADITSERE.</h1>
   
 
 <a href="https://github.com/Jittawatpdsr" target="_blank">
@@ -10,9 +10,8 @@
 <br>
   
 ### <h2>Glad to see you here! °₊·ˈ∗ </h2>
-Hi! I'm **JP** , a 3rd-year student studying Computer Science. <br>
-starting to learn about **"Data Analyst"** and improve my soft skills such as logic , presentation , critical thinking and more.
-
+Hi! I'm **JP** , a 3rd-year student studying Computer Science and starting to learn about **"Data Analyst"** and improve my soft skills such as logic , presentation , critical thinking and more.<br>
+<br>
 ⚙️ 2020 at Production Engineering of <b>[King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/)</b>
 <br>
 <br>
