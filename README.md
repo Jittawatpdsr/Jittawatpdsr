@@ -47,6 +47,10 @@ Next coming soon....?
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12"" />
   <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="tableau logo" width="30px" height="30px" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
 </div>
 
 
