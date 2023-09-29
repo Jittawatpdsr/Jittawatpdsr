@@ -15,7 +15,7 @@ Next coming soon....?
 - ✨ I'm currently learning **Computer Science , Data Analysis , UX/UI Design , Web Developing**  
   
 
-- 👀 I'm interested in **Data Analysis , Database , UX/UI Design , Engineering**
+- 👀 I'm interested in **Data Analysis , Database , UX/UI Design , SQL**
 
 
 - 📊 My Tableau Public here <b>[Tableau Public](https://public.tableau.com/app/profile/jittawat.praditseree)</b>
