@@ -7,9 +7,7 @@ Hi! I'm **JP** , a 3rd-year student studying Computer Science and start learning
 💎 2021 at Information Techonology and Innovation of <b>[Bangkok University](https://www.bu.ac.th/th/)</b>
 <br>
 <br>
-Next coming soon....?
-
-## Passion and contact ⋆·˚ 
+## PASSION AND CONTACT ⋆·˚ 
 <td valign="top" width="50%">
 
 - ✨ I'm currently learning **Computer Science , Data Analysis , UX/UI Design , Web Developing**  
