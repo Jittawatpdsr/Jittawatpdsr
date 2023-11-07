@@ -24,7 +24,7 @@ Hi! I'm **JP** , a 3rd-year student studying Computer Science and start learning
 
 - 🚀 Contact me here  <b>[Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDCzLtqQJzXzpwhBkFCknlftzcMTHvCnVHDqSgBBFSWxktnnFLhTsvnxGcMTwHZjmnbQrS)</b>
 
-## Languages and tools  
+## LANGUAGE AND TOOLS
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
