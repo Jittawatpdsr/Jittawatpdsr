@@ -13,7 +13,7 @@ Hi! I'm **JP** , a 3rd-year student studying Computer Science and start learning
 - ✨ I'm currently learning **Computer Science , Data Analysis , R Programming , Database tools**  
   
 
-- 👀 I'm interested in **Data Analysis , Database , UX/UI Design , SQL**
+- 👀 I'm interested in **Data Analysis , Database , Data Visualization , SQL**
 
 
 - 📊 My Tableau Public here <b>[Tableau Public](https://public.tableau.com/app/profile/jittawat.praditseree)</b>
