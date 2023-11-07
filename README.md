@@ -10,7 +10,7 @@ Hi! I'm **JP** , a 3rd-year student studying Computer Science and start learning
 ## PASSION AND CONTACT ⋆·˚ 
 <td valign="top" width="50%">
 
-- ✨ I'm currently learning **Computer Science , Data Analysis , UX/UI Design , Web Developing**  
+- ✨ I'm currently learning **Computer Science , Data Analysis , R Programming , Database tools**  
   
 
 - 👀 I'm interested in **Data Analysis , Database , UX/UI Design , SQL**
