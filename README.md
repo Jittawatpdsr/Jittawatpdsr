@@ -1,5 +1,5 @@
 ## <h1>HELLO 👋🏻 , I'M JITTAWAT PRADITSERE.</h1>
-Hi! I'm **JP** , a 3rd-year student studying Computer Science and start learning to become **"Data Analyst"** and improve my soft skills such as logic , presentation , critical thinking and more.<br>
+Hi! I'm **JP** studying in major computer science and will start learning to become **"Data Analyst"** and improve my soft skills such as logic, presentation, critical thinking, and gain some experience from real projects and volunteer.<br>
 <br>
 ⚙️ 2020 at Production Engineering of <b>[King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/)</b>
 <br>
