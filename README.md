@@ -8,7 +8,7 @@ Hi! I'm **JP** studying in major computer science and will start learning to bec
 <br>
 <br>
 Next goal is "Techsauce Volunteer"
-## PASSION AND CONTACT ⋆·˚ 
+## PASSION AND CONTACT
 <td valign="top" width="50%">
 
 - ✨ I'm currently learning **Computer Science , Data Analysis , R Programming , Database tools**  
