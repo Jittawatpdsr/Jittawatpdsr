@@ -7,7 +7,7 @@ Hi! I'm **JP** studying in major computer science and will start learning to bec
 💎 2021 at Information Techonology and Innovation of <b>[Bangkok University](https://www.bu.ac.th/th/)</b>
 <br>
 <br>
-Next goal is "Techsauce Volunteer"
+My next goal for 2024 is "Data Analyst Internship" , "Techsauce Volunteer"
 ## PASSION AND CONTACT
 <td valign="top" width="50%">
 
