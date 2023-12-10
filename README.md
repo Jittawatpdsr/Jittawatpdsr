@@ -14,7 +14,7 @@ My next goal for 2024 is "Data Analyst Internship" , "Techsauce Volunteer"
 - ✨ I'm currently learning **Computer Science , Data Analysis , R Programming , Database tools**  
   
 
-- 👀 I'm interested in **Data Analysis , Database , Data Visualization , SQL**
+- 👀 I'm interested in **Data Career ( DE DS DA ) , Machine Learning , MERN Stack , SQL**
 
 
 - 📊 My Tableau Public here <b>[Tableau Public](https://public.tableau.com/app/profile/jittawat.praditseree)</b>
