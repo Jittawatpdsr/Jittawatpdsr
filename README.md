@@ -1,13 +1,12 @@
 ## <h1>HELLO 👋🏻 , I'M JITTAWAT PRADITSERE.</h1>
 Hi! I'm **JP** studying in major computer science and will start learning to become **"Data Analyst"** and improve my soft skills such as logic, presentation, critical thinking, and gain some experience from real projects and volunteer.<br>
 <br>
-⚙️ 2020 at Production Engineering of <b>[King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/)</b>
-<br>
-<br>
-💎 2021 at Information Techonology and Innovation of <b>[Bangkok University](https://www.bu.ac.th/th/)</b>
-<br>
-<br>
-My next goal for 2024 is "Data Analyst Internship" , "Techsauce Volunteer"
+
+💎 Information Technology and Infomarion , Computer Science at <b>[Bangkok University](https://www.bu.ac.th/th/)</b> <b>2021 - Present</b>
+
+⭐️ My next goal for 2024 is  <b>Data Analyst or Data Science Internship , Techsauce Volunteer</b>
+
+
 ## PASSION AND CONTACT
 <td valign="top" width="50%">
 
