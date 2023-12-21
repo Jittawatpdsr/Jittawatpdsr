@@ -10,7 +10,7 @@ Hi! I'm **JP** studying in major computer science and will start learning to bec
 ## PASSION AND CONTACT
 <td valign="top" width="50%">
 
-- ✨ I'm currently learning **Computer Science , Data Analysis , R Programming , Database tools**  
+- ✨ I'm currently learning **Computer Science , Data Analysis , R Programming etc.**  
   
 
 - 👀 I'm interested in **Data Career ( DE DS DA ) , Machine Learning , MERN Stack , SQL**
